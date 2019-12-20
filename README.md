@@ -25,7 +25,7 @@ Step 2. Add the dependency
 
 ```groovy
 dependencies {
-  implementation 'com.github.prolificinteractive:material-calendarview:${version}'
+  implementation "com.github.expcra:material-calendarview:2.0.2"
 }
 ```
 
